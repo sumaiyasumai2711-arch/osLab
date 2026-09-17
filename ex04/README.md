@@ -40,7 +40,7 @@ gcc forkDemo.c -o forkDemo
 ![Output for Experiment 4_1](https://github.com/Balakrishna-0907/osLab/blob/953e2cd8081d13ef45a844fcaf73a2b3ed8ff625/ex04/ProcessCreation/output.png)
 
 ## SOURCE CODE (Process Management) :
-**File:** [waitDemo.c](https://github.com/Balakrishna-0907/osLab/blob/b54d9fc39792c3c0cedaf8d0b8edb331c6f6618b/ex04/ProcessManagement/waitDemo.c)
+**File:** [waitDemo.c](https://github.com/sumaiyasumai2711-arch/osLab/blob/5a6877d0896728f0c00778351d044b218bb206b0/ex04/ProcessManagement/waitDemo.c)
 
 ## COMPILATION :
 
