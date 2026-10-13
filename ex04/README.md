@@ -37,7 +37,7 @@ gcc forkDemo.c -o forkDemo
 ./forkDemo
 ```
 ## OUTPUT :
-![Output for Experiment 4_1](https://github.com/Balakrishna-0907/osLab/blob/953e2cd8081d13ef45a844fcaf73a2b3ed8ff625/ex04/ProcessCreation/output.png)
+![Output for Experiment 4_1](https://github.com/sumaiyasumai2711-arch/osLab/blob/84dddd1dbebfcff6403bcc14695058232f8f6dda/ex04/ProcessCreation/Output4.1.png)
 
 ## SOURCE CODE (Process Management) :
 **File:** [waitDemo.c](https://github.com/sumaiyasumai2711-arch/osLab/blob/5a6877d0896728f0c00778351d044b218bb206b0/ex04/ProcessManagement/waitDemo.c)
